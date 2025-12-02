@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice A.",
+      "email": "alice@new.com",
+      "isActive": true
+    }
+  ],
+  "version": "1.1",
+  "newFeatureFlag": true
+}
